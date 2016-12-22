@@ -9,7 +9,7 @@ log:
 
  Hardware resource  
  
- electron circuit  https://github.com/newbitstudio/EDA/tree/master/Newbit%20Boards  
+		 electron circuit  https://github.com/newbitstudio/EDA/tree/master/Newbit%20Boards  
  
          user BBS  arduino.newbitstudio.com  
 		 
